@@ -23,7 +23,7 @@ export function SearchBar() {
                         <EmailIcon />
                     </Badge>
                 </IconButton>
-                <span className="p-name">Rajendran Ramasamy</span>
+                <span className="p-name">VALLATHAAN</span>
                 <IconButton aria-label="Acc">
                     <AccountCircleIcon />
                 </IconButton>
